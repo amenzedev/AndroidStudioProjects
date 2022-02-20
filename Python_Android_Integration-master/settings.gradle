@@ -1,0 +1,2 @@
+rootProject.name = "Python_Android_Integration"
+include ':app'

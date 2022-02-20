@@ -1,0 +1,2 @@
+rootProject.name = "OpenCV in Android Studio"
+include ':app'
