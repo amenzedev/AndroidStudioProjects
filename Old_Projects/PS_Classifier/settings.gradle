@@ -1,0 +1,2 @@
+rootProject.name = "PS_Classifier"
+include ':app'
